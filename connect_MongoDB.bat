@@ -1,0 +1,2 @@
+cd DB
+mongo.exe
